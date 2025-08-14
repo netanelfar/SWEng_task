@@ -1,0 +1,6 @@
+C:\Users\netan\git\SWEng_task\sender_c\sender.c;C:\Users\netan\git\SWEng_task\build\sender_c\sender.dir\Debug\sender.obj
+C:\Users\netan\git\SWEng_task\sender_c\reader.c;C:\Users\netan\git\SWEng_task\build\sender_c\sender.dir\Debug\reader.obj
+C:\Users\netan\git\SWEng_task\sender_c\ring_buffer.c;C:\Users\netan\git\SWEng_task\build\sender_c\sender.dir\Debug\ring_buffer.obj
+C:\Users\netan\git\SWEng_task\sender_c\tcp.c;C:\Users\netan\git\SWEng_task\build\sender_c\sender.dir\Debug\tcp.obj
+C:\Users\netan\git\SWEng_task\sender_c\packer.c;C:\Users\netan\git\SWEng_task\build\sender_c\sender.dir\Debug\packer.obj
+C:\Users\netan\git\SWEng_task\sender_c\serial_win.c;C:\Users\netan\git\SWEng_task\build\sender_c\sender.dir\Debug\serial_win.obj
