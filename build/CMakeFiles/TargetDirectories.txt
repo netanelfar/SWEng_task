@@ -1,4 +1,0 @@
-C:/Users/netan/git/SWEng_task/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/netan/git/SWEng_task/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/netan/git/SWEng_task/build/sender_c/CMakeFiles/sender.dir
-C:/Users/netan/git/SWEng_task/build/receiver_cpp/CMakeFiles/receiver.dir

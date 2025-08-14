@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/Users/netan/git/SWEng_task/build/cmake_install.cmake",
-		"C:/Users/netan/git/SWEng_task/build/sender_c/cmake_install.cmake",
-		"C:/Users/netan/git/SWEng_task/build/receiver_cpp/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
